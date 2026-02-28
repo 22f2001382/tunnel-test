@@ -18,7 +18,7 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Make changes
+      - name: 22f2001382@ds.study.iitm.ac.in
         run: |
           echo "Last updated: $(date)" > update.txt
 
